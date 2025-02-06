@@ -1,4 +1,4 @@
-# Unikin_project_L3informatique
+# SmartBin
 
  le fichier frontend avec  streamlit
  le fichier api contient le code de l' API avec FastAPI
